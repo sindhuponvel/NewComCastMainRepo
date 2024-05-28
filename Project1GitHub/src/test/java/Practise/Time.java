@@ -14,10 +14,7 @@ public class Time {
 	 System.out.println(sim.format(dateObj));
 	 
 
-		Calendar cal = sim.getCalendar();
-		cal.add(cal.DAY_OF_WEEK, 7);
-		String reqDate = sim.format(cal.getTime());
-		System.out.println(reqDate);
+		
 		
 		
 	}
