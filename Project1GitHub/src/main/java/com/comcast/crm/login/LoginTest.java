@@ -14,6 +14,9 @@ public class LoginTest {
 	}
 	@FindBy(xpath="username")
 	WebElement type;
+
+	@FindBy(xpath="product")
+	WebElement product;
 	
 
 }
