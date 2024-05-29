@@ -6,4 +6,6 @@ public class HomePage {
 	
 	WebElement product;
 
+	//from github - shiny
+
 }
